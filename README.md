@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Travel Agency Management System**
+- 🔭 I’m currently working on **Shope Management System**
 
-- 🌱 I’m currently learning **React + Laravel + MySQL**
+- 🌱 I’m currently learning **Dart, Flutter, AI, SQLite**
 
-- 💬 Ask me about **react, PHP, MySQL**
+- 💬 Ask me about **Flutter, react, PHP, MySQL**
 
-- 📫 How to reach me **shuvromojumder7@gmail.com**
+- 📫 How to reach me **shuvromazumdar7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
